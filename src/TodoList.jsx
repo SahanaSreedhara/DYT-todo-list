@@ -68,7 +68,7 @@ const TodoList = () => {
                     {props.val}
                 </li>
                 <div>
-                    {/* <button title="Task Done" onClick={Checked} className="done-button"><DoneIcon /></button> */}
+                    <button title="Task Done" className="done-button"><DoneIcon /></button>
                     <button title="Edit task" onClick={Edit} className="edit-button"><EditIcon /></button>
                     <button title="Delete task" onClick={Delete} className="delete-button"><DeleteOutlineIcon /></button>
                 </div>
