@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DYT-todo-list/static/css/main.c8b1dcaa.css",
+    "main.js": "/DYT-todo-list/static/js/main.0580ad56.js",
+    "index.html": "/DYT-todo-list/index.html",
+    "main.c8b1dcaa.css.map": "/DYT-todo-list/static/css/main.c8b1dcaa.css.map",
+    "main.0580ad56.js.map": "/DYT-todo-list/static/js/main.0580ad56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b1dcaa.css",
+    "static/js/main.0580ad56.js"
+  ]
+}
